@@ -1,0 +1,9 @@
+{
+  "name":"VX7X Dance & Fitness Studio",
+  "short_name":"VX7X Studio",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#111111",
+  "theme_color":"#111111",
+  "icons":[]
+}
